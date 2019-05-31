@@ -173,7 +173,7 @@ body {
     justify-content: center;
 }
 
-.box3 {
+.box4 {
     background-color: coral; 
     width: 12.5%;
     height: 100px;
@@ -184,7 +184,7 @@ body {
     justify-content: center;
 }
 
-.box4 {
+.box5 {
     background-color: crimson; 
     width: 12.5%;
     height: 100px;
@@ -195,7 +195,7 @@ body {
     justify-content: center;
 }
 
-.box5 {
+.box6 {
     background-color: forestgreen; 
     width: 12.5%;
     height: 100px;
@@ -206,7 +206,7 @@ body {
     justify-content: center;
 }
 
-.box6 {
+.box7 {
     background-color: darkorchid; 
     width: 12.5%;
     height: 100px;
@@ -217,19 +217,8 @@ body {
     justify-content: center;
 }
 
-.box7 {
-    background-color: hotpink; 
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .box8 {
-    background-color: indigo; 
+    background-color: hotpink; 
     width: 12.5%;
     height: 100px;
     margin: 20px 2.5%;
@@ -244,11 +233,12 @@ body {
     width: 12.5%;
     height: 100px;
     margin: 20px 2.5%;
-    color: white; 
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 
 .box10 {
     background-color: dodgerblue; 
@@ -257,7 +247,8 @@ body {
     margin: 20px 2.5%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center; 
+    color: white; 
 } 
 
 
@@ -301,7 +292,7 @@ footer nav a {
     display: flex; 
     flex-direction: column; 
     justify-content: center; 
-
+    margin-left: 30px; 
 }
 
 hr {
@@ -313,12 +304,12 @@ hr {
     display: flex;  
     flex-wrap: wrap; 
     flex-direction: row; 
-    justify-content: space-evenly; 
+    justify-content: space-evenly;
 }
 
 .about-middle section {
     margin-top: 30px; 
-    width: 47%; 
+    width: 47%;  
 }
 
 section h2 {
