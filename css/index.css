@@ -297,7 +297,11 @@ footer nav a {
 /* About Page CSS */
 
 .about-top {
-    margin-left: 20px; 
+    width: 750px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+
 }
 
 hr {
